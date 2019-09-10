@@ -1,3 +1,6 @@
+# function to load the Adult census data in a nice package. 
+# based on https://github.com/slundberg/shap/blob/master/shap/datasets.py
+
 import numpy as np 
 import pandas as pd
 
